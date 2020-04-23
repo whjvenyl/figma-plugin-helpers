@@ -13,7 +13,7 @@
 
 ▸ **getAllFonts**(`textNodes`: Array‹TextNode›): *any[]*
 
-*Defined in [getAllFonts.ts:5](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers/blob/5674636/src/helpers/getAllFonts.ts#L5)*
+*Defined in [getAllFonts.ts:5](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers/blob/ce391e7/src/helpers/getAllFonts.ts#L5)*
 
 this function returns all used fonts to textNodes
 
